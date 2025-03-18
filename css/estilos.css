@@ -15,11 +15,12 @@ header {
 nav ul {
     list-style: none;
     padding: 0;
+    
 }
 
 nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin: 0 50px;
 }
 
 nav ul li a {
